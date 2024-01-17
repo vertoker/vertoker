@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on _**Virtual Station - multiplayer train simulator for study**_
+- 🌱 I’m currently learning _**C++ and Vulkan**_ (spicy thing)
+- 👯 I’m looking to collaborate on _**Unity or C++**_
+- 🤔 I’m looking for help with _**studying and more professional friends**_
+- 💬 Ask me about _**C# and Unity**_
+- 📫 How to reach me:
+  - tg: _**@vertoker**_
+
 <!--
 **vertoker/vertoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
