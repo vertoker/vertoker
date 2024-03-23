@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on _**Virtual Station - multiplayer train simulator for study**_
+- 🔭 I’m currently working on _**Multiplayer trainers for various manufactures and colleges/universities**_
 - 🌱 I’m currently learning _**C++ and Vulkan**_ (spicy thing)
 - 👯 I’m looking to collaborate on _**Unity or C++**_
 - 🤔 I’m looking for help with _**studying and more professional friends**_
