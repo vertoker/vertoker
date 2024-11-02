@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on _**Multiplayer trainers for various manufactures and colleges/universities**_
-- 🌱 I’m currently learning _**C++ and Vulkan**_ (spicy thing)
+- 🔭 I’m currently working on _**internal Unity tools for some local company**_
+- 🌱 I’m currently learning _**C++ and Vulkan**_ (sonn will have a new job)
 - 👯 I’m looking to collaborate on _**Unity or C++**_
 - 🤔 I’m looking for help with _**studying and more professional friends**_
 - 💬 Ask me about _**C# and Unity**_
