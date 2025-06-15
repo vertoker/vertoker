@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on _**internal Unity tools for some local company**_ 
-- 🌱 I’m currently learning _**C++, Vulkan and CS Algorithms**_
+- 🔭 I’m currently working as _**core Unity developer**_ for some local regional company
+- 🌱 I’m currently learning _**C++ and CS**_
 - 👯 I’m looking to collaborate on _**C++**_
 - 🤔 I’m looking for help with _**studying and more professional friends**_
-- 💬 Ask me about _**C++ and Unity**_
+- 💬 Ask me about _**C++/Unity**_ or _**any C++ job**_
 - 📫 How to reach me: type username _**vertoker**_ in any popular platform (I prefer Telegram and Discord)
-- ⚡ Fun fact: I don't have any university degree
-
-(please give me a C++ job)
 
 <!--
 **vertoker/vertoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
