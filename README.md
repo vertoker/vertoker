@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as _**core Unity developer**_ for some local regional company
-- 🌱 I’m currently learning _**C++ and CS**_
-- 👯 I’m looking to collaborate on _**C++**_
+- 🌱 I’m currently learning _**Computer Science and several languages**_
+- 👯 I’m looking to collaborate on _**C# and Unity**_
 - 🤔 I’m looking for help with _**studying and more professional friends**_
-- 💬 Ask me about _**C++/Unity**_ or _**any C++ job**_
+- 💬 Ask me about _**Unity/C++**_ or _**any related job**_
 - 📫 How to reach me: type username _**vertoker**_ in any popular platform (I prefer Telegram and Discord)
 
 <!--
